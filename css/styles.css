@@ -208,3 +208,8 @@ body {
   color: var(--muted);
   font-size: 14px;
 }
+
+#about_container{
+    display: flex;
+    justify-content: space-between;
+}
